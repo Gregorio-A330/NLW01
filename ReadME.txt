@@ -1,8 +1,7 @@
-Pontos principais vistos nas Aulas da NextLevelWeek pela RocketSeat 
+#Pontos principais vistos nas Aulas da NextLevelWeek pela RocketSeat
 
-Aqui segue um roteiro sobre o que foi visto em aula:
+Aqui segue um roteiro sobre o que foi visto durante a semana da NLW:
  
-
 *Os três pilares do bom desenvolvedor
 **Foco
 	-> Escolher uma Stack e seguir com ela até o fim para se tornar melhor com ela, assim, evitando ficar migrando em varias linguagens, após domina-la sinta-se livre para migrar, com isso evita ficar desperso tentando aprender tudo ao mesmo tempo, até porque nenhum Dev sabe tudo...
@@ -17,10 +16,11 @@ Ajude as oportunidades a encontrarem você
 
 ***Primeira Aula*** 
 
-*Criando o server com NodeJS
-
+*Criando o server com NodeJS e explicação de algumas ferramentas como: Visual Studio code, React, React Native, SQLite, entre outras...
 
 ____________________________________________________________
+*** Segunda Aula ***
+
 *Criando a Aplicação em React e entendendo tanto React como o React Native
 
 Utilizando o React
@@ -48,17 +48,29 @@ Divisão de responsabilidades;
 
 Uma API, Multiplos Clientes;
 ou seja Web E Mobile
+_______________________________________________________________________________________________________________________________________
+*** Terceira Aula ***
 
-
-Criando a aplicação em React
+Criando a aplicação em React (Retomando a segunda aula)
 npx create-react-app web --template=typescript
 
 utilizando o comando acima npx para executar o create-react-app (nome da aplicação) --template=typescript irá informar que vamos utilizar TypeScript dentro da aplicação
 
-***Retomada do Front na Terceira Aula***
-__________________________________________________________
+Conceitos de componentes e chamadas de APIs
+
+_______________________________________________________________________________________________________________________________________
+*** Quarta Aula ***
+
 REACT NATIVE
 * o seu celular passa a entender o JavaScript
 Utilizando da aplicação EXPO o seu celular passa a reconhecer todo código escrito em JavaScript e assim consegue executar em tempo real a aplicação mobile.
 
-*** Será visto na Quinta Aula ***
+
+
+_______________________________________________________________________________________________________________________________________
+*** Quinta Aula ***
+
+Finalização do conteudo, bem como utilização do Git e Banco de dados...
+
+Aplicativo incluido no GitHub, porem falta revisar alguns erros que aconteceram durante o desenvolvimento da parte Mobile...
+
